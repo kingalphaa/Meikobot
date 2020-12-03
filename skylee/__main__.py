@@ -40,7 +40,7 @@ from skylee.modules.helper_funcs.misc import paginate_modules
 from skylee.modules.purge import client
 
 PM_START_TEXT = f"""
-Hey There ! My name is 𝙈𝙚𝙞𝙠𝙤.
+Hey There ! My name is 𝘿𝙚𝙖𝙩𝙝𝙎𝙩𝙧𝙤𝙠𝙚2.0.
 I'm here to make your group management fun and easy!
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even replies on predetermined filters.
 Please Click Help Button For Assistance And Help Regarding Special Modules
@@ -176,7 +176,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://telegra.ph/file/0a6a55b868d5e7d874295.jpg",
+                "https://telegra.ph/file/defd317a23788f21ebe68.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
