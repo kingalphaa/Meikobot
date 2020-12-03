@@ -21,7 +21,7 @@ from skylee.modules.helper_funcs.extraction import extract_user_and_text
 from skylee.modules.helper_funcs.string_handling import extract_time
 from skylee.modules.log_channel import loggable
 
-STICKERID = "AQAD8YmuShcAA49KAAI"
+STICKERID = "AQADmSyZShcAAyNgAAI"
 
 
 @run_async
