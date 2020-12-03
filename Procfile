@@ -1,1 +1,1 @@
-web: python3 -m skylee
+app: python3 -m skylee
